@@ -86,7 +86,7 @@ print(base.__value)  # AttributeError 어트리뷰트가 없다고 나옴
 
 
 #### 타입 변환 ####
-### int('1212') float('1.23') str(131241)
+### int('1212') float('1.23') str(131241) bool()
 
 # text = "10"
 # num = 123
