@@ -8,7 +8,6 @@
     맹글링
     주석 
 }
-
 01-02{
     스트링 조작 (substring)
     f-string format
@@ -18,4 +17,9 @@
     연산자
     Falsy, Truthy
     정확한 수 계산
+}
+01-04{
+    조건문 if elif else
+    dictionary Mapping - switch case 대용
+    Match Case - After 3.10 -switch case
 }
